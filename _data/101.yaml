@@ -13,7 +13,7 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-101.png
+  image-1: ''
   image-2: ''
   video: ''
   audio: ''
@@ -46,12 +46,15 @@
   description: >-
     <p>Websites like Facebook allow us to interact with friends and family,
     sharing messagings, photos, links, and other essential life bits,
-    establishing a social platform for us to engage in our online lives.</p>
-
-    <p>Facebook is a daily destination for users around the world, with much of
-    the interactions via an increasing number of mobile devices that all of us
-    have in our pockets. These mobile devices all use APIs to connect our mobile
-    app to Facebook.com.</
+    establishing a social platform for us to engage in our online
+    lives.</p><p>Facebook is a daily destination for users around the world,
+    with much of the interactions via an increasing number of mobile devices
+    that all of us have in our pockets, has become the virtual community for our
+    physical worlds.</p><p>Facebook is a platform consisting of a website, and
+    mobile applications all driven by the API platform, which provides partners
+    and 3rd party developers access to all aspects of the platform from posting
+    images, to buying advertising that targets specific users, in a specific
+    region of the world.</p>
   link-1-label: ''
   link-1-url: ''
   link-2-label: ''
@@ -587,7 +590,7 @@
   audio: ''
   issue: ''
 - slug: ''
-  title: Not Just For Developers
+  title: APIs Are Not Just For Developers
   description: >-
     <p>APIs are not just for developers. If you can use a web page, you can use
     most APIs. There are a great deal of educational materials (like this), to
@@ -611,7 +614,7 @@
   audio: ''
   issue: ''
 - slug: ''
-  title: Orchestrate Using APIs With IFTTT And Zapier
+  title: Orchestrate Using APIs With Zapier
   description: >-
     <p>A new generation of services have emerged, acknowledging the wealth of
     API resources available, and the growing number of SaaS applications that
@@ -636,7 +639,7 @@
   audio: ''
   issue: ''
 - slug: ''
-  title: Making Companies More Nimble & Agile
+  title: Making Companies & Organizations More Nimble & Agile
   description: >-
     <p>Companies are learning that when they make all data, content, and other
     digital assets available via well designed, simple, and modular APIs over
@@ -660,7 +663,7 @@
   audio: ''
   issue: ''
 - slug: ''
-  title: Making Companies More Open & Transparent
+  title: Helps Companies & Organizations Be More Observable
   description: >-
     <p>Another aspect that is transcending the technology of APIs, is the
     openness and transparency it can introduce into company, organizational,
@@ -686,7 +689,7 @@
   audio: ''
   issue: ''
 - slug: ''
-  title: Allowing Companies To Be More Competitive
+  title: Allowing Companies & Organizations To Be More Competitive
   description: >-
     <p>The ability to rapidly design, develop, deploy and iterate websites,
     mobile applications, while also empowering workers to be more effective via
@@ -708,7 +711,8 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: 'https://s3.amazonaws.com/kinlane-productions/talks/101/bw-competition.jpg'
+  image-1: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-big-fish-little-fish.png
   image-2: ''
   video: ''
   audio: ''
