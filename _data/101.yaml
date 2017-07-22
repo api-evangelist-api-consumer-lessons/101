@@ -1,4 +1,4 @@
-- slug: ''
+- slug: api-101
   title: API 101
   description: >-
     <p>APIs, also known as Application Programming Interfaces, at their most
@@ -18,7 +18,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: website-count
   title: '863,105,652 Websites'
   description: >-
     <p>There are 863,105,652 websites registered in 2015, making up what we know
@@ -41,7 +41,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: facebook
   title: Facebook
   description: >-
     <p>Websites like Facebook allow us to interact with friends and family,
@@ -65,7 +65,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: yahoo
   title: Yahoo
   description: >-
     <p>Yahoo has long been a staple of the Internet providing users with access
@@ -86,7 +86,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: youtube
   title: Youtube
   description: >-
     <p>YouTube provides us with hours of online entertainment, bringing home
@@ -109,7 +109,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: amazon
   title: Amazon
   description: >-
     <p>Amazon has made e-commerce part of the mainstream conversation, allowing
@@ -132,7 +132,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: twitter
   title: Twitter
   description: >-
     <p>Twitter allows us to send short, SMS style messages across the public
@@ -156,7 +156,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: pinterest
   title: Pinterest
   description: >-
     <p>Pinterest provides users with a simple, yet addictive way to share photos
@@ -178,7 +178,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: reddit
   title: Reddit
   description: >-
     <p>Reddit is the home page of the Internet, providing users with links to
@@ -200,7 +200,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: bits-of-our-life-across-these-sites
   title: Bits Of Our Life Across These Sites
   description: >-
     <p>All of these websites are built by other people, but as users of these
@@ -226,7 +226,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: hand-written-websites-using-html
   title: Hand Written Websites Using HTML
   description: >-
     <p>In the early days, all websites were hand coded, with web designers
@@ -250,7 +250,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: website-content-was-coming-from-databases
   title: Website Content Was Coming From Databases
   description: >-
     <p>Eventually the concept of a database driven website came to be, allowing
@@ -273,7 +273,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: adding-an-amazon-product-widget
   title: Adding An Amazon Product Widget
   description: >-
     <p>Along the way it became clear that it wasn't enough to have just your
@@ -297,7 +297,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: add-a-delicious-bookmark-widget
   title: Add A Delicious Bookmark Widget
   description: >-
     <p>As the social evolution of the Internet began, links to valuable content,
@@ -319,7 +319,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: add-twitter-widget
   title: Add Twitter Widget
   description: >-
     <p>With the social movement in full swing, just posting links to your
@@ -343,7 +343,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: content-comes-from-many-databases-and-apis
   title: Content Comes From Many Databases & APIs
   description: >-
     <p>If you were a website developer, your website content no longer comes
@@ -368,7 +368,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: then-the-iphone-happened
   title: Then The iPhone Happened
   description: >-
     <p>On June 29, 2007 the first edition of the iPhone was release, and slowly
@@ -393,7 +393,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: foursquare
   title: Foursquare
   description: >-
     <p>Mobile applications came with the simple knowledge of your location, as
@@ -416,7 +416,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: instagram
   title: Instagram
   description: >-
     <p>In addition to knowing the location of each application user, each user
@@ -440,7 +440,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: pandora
   title: Pandora
   description: >-
     <p>As with photos, music plays a central role in our life, and it is no
@@ -466,7 +466,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: apis-are-powering-websites
   title: APIs Are Powering Websites
   description: >-
     <p>APIs have been powering websites for almost 15 years now, delivering
@@ -491,7 +491,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: apis-are-powering-mobile-apps
   title: API Are Powering Mobile Apps
   description: >-
     <p>The number of mobile phones in our pockets will reach 7.3 billion in
@@ -516,7 +516,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: apis-are-powering-buttons-badges-and-widgets
   title: 'APIs Are Powering Buttons, Badges, and Widgets'
   description: >-
     <p>APIs break up our valuable data and content into small bite-size chunks
@@ -542,7 +542,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: apis-are-powering-spreadsheets
   title: APIs Are Powering Spreadsheets
   description: >-
     <p>APIs are quickly finding their way beyond web and mobile applications,
@@ -567,7 +567,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: apis-are-powering-devices
   title: APIs Are Powering Devices
   description: >-
     <p>I'm not exaggerating when I say APIs are penetrating almost every aspect
@@ -589,7 +589,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: apis-are-not-just-for-developers
   title: APIs Are Not Just For Developers
   description: >-
     <p>APIs are not just for developers. If you can use a web page, you can use
@@ -613,7 +613,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: orchestrate-using-apis-with-zapier
   title: Orchestrate Using APIs With Zapier
   description: >-
     <p>A new generation of services have emerged, acknowledging the wealth of
@@ -638,7 +638,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: making-companies-and-iorganizations-more-agile-nimble
   title: Making Companies & Organizations More Nimble & Agile
   description: >-
     <p>Companies are learning that when they make all data, content, and other
@@ -662,7 +662,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: help-companies-and-organizations-be-more-observable
   title: Helps Companies & Organizations Be More Observable
   description: >-
     <p>Another aspect that is transcending the technology of APIs, is the
@@ -688,7 +688,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: allowing-companies-to-be-more-competitive
   title: Allowing Companies & Organizations To Be More Competitive
   description: >-
     <p>The ability to rapidly design, develop, deploy and iterate websites,
@@ -716,7 +716,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: empowering-individuals-to-take-more-control
   title: Empowering Individuals To Take Control Online
   description: >-
     <p>The most important thing APIs are bringing to the table, is the
@@ -744,7 +744,7 @@
   video: ''
   audio: ''
   issue: ''
-- slug: ''
+- slug: apis-are-important-please-keep-learning
   title: 'APIs Are Important, Please Keep Learning'
   description: >-
     <p>This is just the first of a series of 101 tutorials on the world of APIs.
