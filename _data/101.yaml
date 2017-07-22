@@ -657,7 +657,7 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-running.png'
+  image-1: 'https://s3.amazonaws.com/kinlane-productions/101/bw-running.png'
   image-2: ''
   video: ''
   audio: ''
@@ -683,7 +683,7 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-observable.png'
+  image-1: 'https://s3.amazonaws.com/kinlane-productions/101/bw-observable.png'
   image-2: ''
   video: ''
   audio: ''
@@ -711,8 +711,7 @@
   link-1-url: ''
   link-2-label: ''
   link-2-url: ''
-  image-1: >-
-    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-big-fish-little-fish.png
+  image-1: 'https://s3.amazonaws.com/kinlane-productions/101/bw-big-fish-little-fish.png'
   image-2: ''
   video: ''
   audio: ''
