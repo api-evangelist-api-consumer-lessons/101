@@ -1,6 +1,13 @@
-#Contributing to API Evangelist
-Spot something wrong, like a typo, broken link, or another type of mistake? [API Evangelist](apievangelist.com) is driven by GitHub, so feel free to fork, fix, and issue a pull request.
+# API 101 Curriculum
 
-Have an idea for a story? Anyone can submit stories to API Evangelist—all you do is submit a pull request on the GitHub repo that runs the site. Obviously, stories have to meet Kin's standards, so be sure what you write fits with both the content and tone of the site, and be sure to note that you're making a guest post. It might help to be familiar with [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/), and look in the _posts directory for examples to follow. You can write in either HTML or Markdown, whichever is easiest for you.
+This is a simple API 101 lesson. 
 
-Thanks for paying attention!
+The modules are stored in a Google Sheet: https://docs.google.com/spreadsheets/d/1f2MvBecerDLFF7id43TnIe76EFo-hL0Lzt_al03V8Hc/edit#gid=0
+
+Published to this Github repo using the Google Sheets API and Githbu API, via this JavaScript in this repo: https://github.com/api-evangelist-api-consumer-lessons/101/blob/master/pull-sheet/index.html
+
+Resulting in this YAML: https://github.com/api-evangelist-api-consumer-lessons/101/blob/master/_data/101.yaml
+
+That drives this website: http://101.apievangelist.com/
+
+
